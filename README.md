@@ -16,11 +16,7 @@ Android app to assist visually impaired users by detecting doors and obstacles i
 
 ---
 
-## Screenshots
 
-*(Add screenshots here to showcase the app UI and detection in action)*
-
----
 
 ## Getting Started
 
