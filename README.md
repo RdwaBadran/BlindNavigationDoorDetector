@@ -31,5 +31,5 @@ Android app to assist visually impaired users by detecting doors and obstacles i
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/BlindDoorExitDetector.git
+   git clone https://github.com/RdwaBadran/BlindDoorExitDetector.git
 
